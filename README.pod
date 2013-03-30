@@ -13,6 +13,7 @@ Games::Chess::Position::Unicode - Chess position with Unicode pieces
 =head1 SEE ALSO
 
 L<Games::Chess::Position|http://metacpan.org/module/Games::Chess#CHESS-POSITIONS> - base class
+
 L<Games::Chess::Referee> - play the game!
 
 =head1 AUTHOR
