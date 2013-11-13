@@ -22,6 +22,10 @@ sub to_text {
 1 && q[Queens Of The Stone Age - Long Slow Goodbye];
 
 __END__
+=pod
+
+=encoding UTF-8
+
 =head1 NAME
 
 Games::Chess::Position::Unicode - Chess position with Unicode pieces
